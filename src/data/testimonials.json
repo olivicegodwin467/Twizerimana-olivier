@@ -1,0 +1,46 @@
+{
+    "testimonials": [
+        {
+            "id": 1,
+            "names": "Ndahayo Patrick",
+            "title": "Web developer, and IT entrepreneur",
+            "image": "patrick.jpg",
+            "testimonial": "Collaborating with my friend in problem solving is an adventure filled with dependability, friendliness, honest and brilliant code, and a reliable approach."
+        },
+        {
+            "id": 2,
+            "names": "Munyambaraga Cyubahiro Israel",
+            "title": "Data anaylisist",
+            "image": "cyubahiro.jpg",
+            "testimonial": "Olivier's commitment and attention to detail consistently deliver exceptional results, reflecting remarkable professionalism and earning sincere gratitude."
+        },
+        {
+            "id": 3,
+            "names": "Rukundo Yves",
+            "title": "Student",
+            "image": "rukundo.jpg",
+            "testimonial": "Celebrating the incredible talent of a versatile professional, adept in both UI/UX design and Web development. His work speaks volumes – visually stunning and seamlessly functional!"
+        },
+        {
+            "id": 4,
+            "names": "Kwizera samuel",
+            "title": "Business man",
+            "image": "samuel.jpg",
+            "testimonial": "Olivier is an extraordinary designer, a visionary whose creations transcend expectations. My business website is developed by himself."
+        },
+        {
+            "id": 5,
+            "names": "Ishimwe Grace",
+            "title": "CBS Manager",
+            "image": "grace.jpg",
+            "testimonial": "I am truly impressed by the exceptional skills of Olivier and innovation displayed by this highly advanced IT Technician. He helped me to install and configure my CCTV camera, office computer network system"
+        },
+        {
+            "id": 6,
+            "names": "Bimenyimana Daniel",
+            "title": "Software Developer",
+            "image": "daniel.jpg",
+            "testimonial": "His work is amazing, beautiful and perfect. Thankful to Olivier for sharing his innovation, skills and devotion to us! He never disappoints and we're all excited to see his next adventurous sites."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "progress": [
+        {
+            "id": "1",
+            "name": "Electronics Maintainence",
+            "width": 85
+        },
+        {
+            "id": "2",
+            "name": "Computer Networking",
+            "width": 70
+        },
+        {
+            "id": "3",
+            "name": "CCTV Camera installation and configuring",
+            "width": 85
+        },
+        {
+            "id": "4",
+            "name": "Linux Operating System",
+            "width": 60
+        },
+        {
+            "id": "5",
+            "name": "Windows Operating System",
+            "width": 80
+        },
+        {
+            "id": "6",
+            "name": "Scripting Languages(Bash, Batch, Python, and javaScript)",
+            "width": 75
+        },
+        {
+            "id": "7",
+            "name": "HTML",
+            "width": 100
+        },
+        {
+            "id": "8",
+            "name": "CSS",
+            "width": 96
+        },
+        {
+            "id": "9",
+            "name": "JavaScript",
+            "width": 81
+        },
+        {
+            "id": "10",
+            "name": "React JS",
+            "width": 83
+        },
+        {
+            "id": "11",
+            "name": "PHP",
+            "width": 100
+        },
+        {
+            "id": "12",
+            "name": "Node JS",
+            "width": 47
+        },
+        {
+            "id": "13",
+            "name": "Python",
+            "width": 53
+        },
+        {
+            "id": "14",
+            "name": "UI/UX design",
+            "width": 79
+        },
+        {
+            "id": "15",
+            "name": "MySQL",
+            "width": 92
+        },
+        {
+            "id": "16",
+            "name": "Sqlite3",
+            "width": 90
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "expertise": [
+        {
+            "id": 1,
+            "name": "IT Technician",
+            "date": "2024-Now",
+            "company": "Kigali View Hotel & Apartment",
+            "one": "Managing and directing IT department .",
+            "two": "In charge of controlling and maintain Electronic and IT equipments."
+        },
+        {
+            "id": 2,
+            "name": "Frontend developer",
+            "date": "2024-Now",
+            "company": "Sand Technologies, Freelancer",
+            "one": "Designed the UI/UX for both the web Application and the mobile application and the development of the website.",
+            "two": "In charge of Web and Mobile App fronted development."
+        }
+    ]
+}
