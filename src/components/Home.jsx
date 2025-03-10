@@ -11,11 +11,11 @@ import emailjs from '@emailjs/browser';
 import { ToastContainer, toast} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import VanillaTilt from "vanilla-tilt";
-import cv from '../documents/Twizerimana Olivier.pdf';
+import cv from '../documents/Updated-CV.pdf';
 
 import 'swiper/css';
 function Home() {
-  // tilted image
+  // tilted images
   useEffect(() => {
     const devImages = document.querySelectorAll(".devImage");
 
@@ -109,8 +109,8 @@ function Home() {
             <div className="texts">
               <h1 data-aos="fade-up" data-aos-duration="1000">TWIZERIMANA Olivier</h1>
               <div className="desc">
-                <h3 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200"><span>I am a </span><span className='span'><Typewriter options={{ autoStart: true,loop: true,delay: 20,deleteSpeed: 20,strings: ["IT professional", "UI/UX Designer", "Web developer", "Collaborator & Contributor", "Freelancer"]}} /></span></h3>
-                <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">I am a software developer situated in Rwanda. Over the span of my short professional career, I have acquired considerable expertise and made substantial strides in enhancing my skill set.</p>
+                <h3 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200"><span>I am a </span><span className='span'><Typewriter options={{ autoStart: true,loop: true,delay: 20,deleteSpeed: 20,strings: ["Full Stack Developer", "UI/UX Designer", "Web developer", "IT Specialist", "Collaborator & Contributor", "Freelancer"]}} /></span></h3>
+                <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">I am a software engineer situated in Rwanda. Over the span of my short professional career, I have acquired considerable expertise and made substantial strides in enhancing my skill set.</p>
               </div>
                 <a  data-aos="fade-right" data-aos-duration="1000" data-aos-delay="600" href="#contact" className="btn-get-started">Say hello</a>
             </div>
@@ -145,7 +145,7 @@ function Home() {
               <div className="line"></div>
             </div>
             <div className="info">
-              <p>I’m a passionate IT professional with experience in developing web and mobile applications, focusing on solving real-world problems and making a positive impact. My projects showcase expertise in various programming languages and tools, with a strong emphasis on user-centric design and scalability. I thrive on learning, sharing knowledge, and creating innovative solutions that help communities.</p>
+              <p>I’m a passionate IT specialist with experience in developing web (Full Stack) and desktop applications, focusing on solving real-world problems and making a positive impact. My projects showcase expertise in various programming languages and tools, with a strong emphasis on user-centric design and scalability. I thrive on learning, sharing knowledge, and creating innovative solutions that help communities.</p>
               <div className="cards">
                 <div className="card">
                   <i  class="fa-solid fa-gear"></i>
@@ -201,7 +201,7 @@ function Home() {
               <div className="shape"></div>
               <p className="time">2021-2023</p>
               <p className="school">Software Engineering</p>
-              <p className="desc">At Harvard university with its online program called EdX.</p>
+              <p className="desc">At Harvard university through its online program called EdX.</p>
             </div>
           </div>
           <div className="title">
